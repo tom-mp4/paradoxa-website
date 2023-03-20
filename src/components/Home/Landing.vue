@@ -13,7 +13,6 @@
         <p>UN FILM DE TOM MARTIN</p>
         <p>GHJULIA VAN MUYLDERS</p>
       </div>
-      <a href="" class="reservation"></a>
     </div>
   </div>
 </template>

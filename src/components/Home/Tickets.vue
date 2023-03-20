@@ -15,5 +15,12 @@
 </template>
 
 <style lang="scss" scoped>
+@use '@/assets/styles/_colors.scss';
+@use '@/assets/styles/_fonts.scss';
+
+.reservations {
+  background: colors.$white;
+  height: 200vh;
+}
 
 </style>
