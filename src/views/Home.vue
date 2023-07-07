@@ -3,6 +3,7 @@
     <Landing />
     <Marquee />
     <Tickets />
+    <Card />
   </div>
 </template>
 
@@ -11,6 +12,7 @@
 import Landing from '@/components/Home/Landing.vue';
 import Marquee from '@/components/Home/Marquee.vue';
 import Tickets from '@/components/Home/Tickets.vue';
+import Card from '@/components/Home/Card.vue';
 
 export default {
   name: 'Home',
@@ -18,6 +20,7 @@ export default {
     Landing,
     Marquee,
     Tickets,
+    Card,
   },
 };
 </script>
